@@ -1,10 +1,10 @@
 # Battleye-Bec-DayZ-Auto_Restart
 All-in-one Battleye, Bec, DayZ Automatic Restart With Message.
-```
+
 DISCLAIMER
 I want to say that i did not make the original version of this script.
 The original version can be found [here](https://forums.dayz.com/topic/239892-install-battleye-server-startbat-server-restarts-server-crash-restarter/)  Which was Made by mrwolv and that i have full permission to release my modified and updated version here.
-```
+
 This script will do the following:
 ```
 -Starts Dayz Server
@@ -16,7 +16,8 @@ This script will do the following:
 -Also Includes Whitelist, BadWords, BadNames, Ban Files (Admin.Xml Not usefull Yet)
 ```
 Screenshot
-https://preview.ibb.co/eBdcbp/Screenshot_3.png
+![Alt text](https://preview.ibb.co/eBdcbp/Screenshot_3.png "Screenshot")
+
 
 As you can see from the photo the DayzSa Server Status cmd box will keep a check on your server if it
 
