@@ -1,0 +1,6 @@
+abcdef0123456789abcdef0123456789 Guid of X Player
+bbcdef0123456789abcdef0123456789 Guid of Y Player
+cbcdef0123456789abcdef0123456789 Guid of Z Player
+dbcdef0123456789abcdef0123456789 Put whatever name you want. Make sure to enable this in config or else it wont work.
+
+
