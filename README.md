@@ -16,7 +16,7 @@ This script will do the following:
 -Also Includes Whitelist, BadWords, BadNames, Ban Files (Admin.Xml Not usefull Yet)
 ```
 Screenshot
-![Alt text](https://preview.ibb.co/eBdcbp/Screenshot_3.png "Screenshot")
+![Alt text](https://preview.ibb.co/eBdcbp/Screenshot_3.png)
 
 
 As you can see from the photo the DayzSa Server Status cmd box will keep a check on your server if it
