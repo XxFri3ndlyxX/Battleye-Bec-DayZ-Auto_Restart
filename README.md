@@ -20,11 +20,11 @@ This script will do the following:
 
 
 As you can see from the photo the DayzSa Server Status cmd box will keep a check on your server if it
-
-crashes and it will auto restart!! This will also reboot your server on the timed restarts & as you can see BEC
-
-is also running on the back cmd box. All you need to do is Run 1 .bat File
+crashes and it will auto restart!! 
+This will also reboot your server on the timed restarts & as you can see BEC is also running on the back cmd box. 
+All you need to do is Run 1 .bat File
 
  
 
-(Also If You Find Your Server wont Show In The Server List Just Open Ports 2302-2307, 27016  TCP/UDP On Your Router & Firewall Of Your Pc/Server. If You Have Problems With The Right I.P For Your Server Just Open CMD Type ipconfig & Look For Your IPv4 Address. . . . . . . . . . . : Thats The I.P You Need To Set In The Files)
+(Also If You Find Your Server wont Show In The Server List Just Open Ports 2302-2307, 27016  TCP/UDP On Your Router & Firewall Of Your Pc/Server. 
+If You Have Problems With The Right I.P For Your Server Just Open CMD Type ipconfig & Look For Your IPv4 Address. . . . . . . . . . . : Thats The I.P You Need To Set In The Files)
