@@ -15,7 +15,7 @@ This script will do the following:
 -Include Guide To Install Its Very Simple To Do
 -Also Includes Whitelist, BadWords, BadNames, Ban Files (Admin.Xml Not usefull Yet)
 ```
-Screenshot
+
 ![Alt text](https://preview.ibb.co/eBdcbp/Screenshot_3.png)
 
 
