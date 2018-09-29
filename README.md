@@ -5,6 +5,14 @@ DISCLAIMER
 I want to say that i did not make the original version of this script.
 The original version can be found [here](https://forums.dayz.com/topic/239892-install-battleye-server-startbat-server-restarts-server-crash-restarter/)  Which was Made by mrwolv and that i have full permission to release my modified and updated version here.
 
+Q&A
+Q: What modification did you make?
+A: I update Bec to the latest version.
+I had to redo the complete scheduler.xml so it would work correctly as it had some changes made to how scheduler works.
+I also added 15, 10 minutes server restart warnings.
+I made small edit to the server.bat file and added description as to what do what.
+That's it, i hope you enjoy this DayZ script as much as i do.
+
 This script will do the following:
 ```
 -Starts Dayz Server
