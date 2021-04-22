@@ -150,28 +150,28 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>000030</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Welcome To xxxxxxxx Roleplay Server</cmd>
+		<cmd>say -1 Добро пожаловать на сервер</cmd>
 	</job>
 	<job id='1'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000040</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Please Be Aware That This Server Is A TEST SERVER</cmd>
+		<cmd>say -1 Пожалуйста прочтите правила сервера</cmd>
 	</job>	
     <job id='2'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000050</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Have Any Suggestion Or Feedback? Discord: xxxxxx</cmd>
+		<cmd>say -1 зайдите в наш Discord: xxxxxx</cmd>
 	</job>
 	<job id='3'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000060</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Do NOT KOS</cmd>
+		<cmd>say -1 Запрещено убивать,грабить,носиловать игроков</cmd>
 	</job>
 	<job id='4'>
 		<day>1,2,3,4,5,6,7</day>
